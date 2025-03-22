@@ -14,17 +14,17 @@ This is a React-based eCommerce website built using Vite for a fast and efficien
 - CSS (or a preferred styling solution)
 
 ## Installation
-2. Install dependencies:
+1. Install dependencies:
    ```bash
    npm install
    ```
 
-3. Start the development server:
+2. Start the development server:
    ```bash
    npm start
    ```
 
-4. Open the application in your browser:
+3. Open the application in your browser:
    ```
    http://localhost:3000
    ```
