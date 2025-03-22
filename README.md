@@ -1,6 +1,6 @@
 # React eCommerce Website
 
-This is a React-based eCommerce website built using Vite for a fast and efficient development experience.
+This is a React-based eCommerce website built using React for a fast and efficient development experience.
 
 ## Features
 - Product listing and details
